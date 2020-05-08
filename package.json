@@ -4,7 +4,8 @@
     "description": "A much more brighter Solarized Light theme",
     "publisher": "huytd",
     "repository": "https://github.com/huytd/vscode-solarized-brighter-light",
-    "version": "0.0.2",
+    "version": "0.0.3",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.16.0"
     },
