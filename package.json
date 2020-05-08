@@ -1,0 +1,21 @@
+{
+    "name": "solarized-brighter-light",
+    "displayName": "Solarized-Brighter-Light",
+    "description": "A much more brighter Solarized Light theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Brighter Light",
+                "uiTheme": "vs",
+                "path": "./themes/Solarized Brighter Light-color-theme.json"
+            }
+        ]
+    }
+}
