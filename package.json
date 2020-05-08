@@ -2,6 +2,8 @@
     "name": "solarized-brighter-light",
     "displayName": "Solarized-Brighter-Light",
     "description": "A much more brighter Solarized Light theme",
+    "publisher": "huytd",
+    "repository": "https://github.com/huytd/vscode-solarized-brighter-light",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
